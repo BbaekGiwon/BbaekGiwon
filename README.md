@@ -1,4 +1,4 @@
-Hi there 👋 I'm a student at Sogang Univ Computer Engineering. Curently interested in Computer vision, Autonomous driving, Robotics.
+#### Hi there 👋 I'm a student at Sogang Univ Computer Engineering. Curently interested in Computer vision, Autonomous driving, Robotics.
 
 ## Skills
 ### Platforms & Languages
