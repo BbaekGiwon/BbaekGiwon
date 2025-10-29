@@ -14,6 +14,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+### Sogang Univ Projects
+[서강대학교 컴퓨터공학설계및실험I(CSE3013)](https://github.com/BbaekGiwon/CSE3013_GWB)
+
+
 ## Baekjoon
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=01gwbaek)
 
