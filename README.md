@@ -15,7 +15,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### Sogang Univ Projects
-[서강대학교 컴퓨터공학설계및실험I(CSE3013)](https://github.com/BbaekGiwon/CSE3013_GWB)
+[서강대학교 컴퓨터공학설계및실험I(CSE3013)](https://github.com/BbaekGiwon/CSE3013_GWB)\n
 [서강대학교 컴퓨터시스템개론(CSE3030)](https://github.com/BbaekGiwon/CSE3030_GWB)
 [서강대학교 알고리즘설계와분석(CSE3081)](https://github.com/BbaekGiwon/CSE3081_GWB)
 [서강대학교 컴퓨터네트워크(CSE4175)](https://github.com/BbaekGiwon/CSE4175_GWB)
