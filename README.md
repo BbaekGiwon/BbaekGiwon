@@ -1,4 +1,5 @@
 #### Hi there 👋 I'm a student at Sogang Univ Computer Engineering. Currently interested in Computer vision, Autonomous driving, Robotics.
+#### Currently at KIST(Korea Institute of Science and Technology)
 
 ## Skills
 ### Platforms & Languages
