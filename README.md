@@ -28,11 +28,9 @@
 
 
 ### 멋쟁이사자처럼 AI CV BOOTCAMP Plus 2기
-[Project 1](https://github.com/BbaekGiwon/AICV_pro1)
-[Project 2](https://github.com/BbaekGiwon/AICV_pro2)
-[Project 3](https://github.com/BbaekGiwon/AICV_proj3)
-
-아직 공사중 ...
+[Project 1](https://github.com/BbaekGiwon/AICV_pro1)  
+[Project 2](https://github.com/BbaekGiwon/AICV_pro2)  
+[Project 3](https://github.com/BbaekGiwon/AICV_proj3) -> 한국산업기술기획평가원장상 수상!  
 
 
 ## Baekjoon
