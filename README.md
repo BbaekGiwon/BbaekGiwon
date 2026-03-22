@@ -1,4 +1,4 @@
-#### Hi there 👋 I'm a student at Sogang Univ Computer Engineering. Currently interested in Computer vision, Autonomous driving, Robotics.
+#### Hi there 👋 I'm a student at Sogang Univ Computer Science/Engineering. Currently interested in Computer vision, Robotics(Dexterous hand manipulation, VLA).
 #### Currently at KIST(Korea Institute of Science and Technology)
 
 ## Skills
@@ -24,8 +24,14 @@
 [서강대학교 컴퓨터공학실험2(CSE3016)](https://github.com/BbaekGiwon/CSE3016_GWB)  
 [서강대학교 기초인공지능프로그래밍(COR1010)](https://github.com/BbaekGiwon/COR1010_GWB)  
 
+### 두산 ROKEY BOOTCAMP 4기
+
+
 ### 멋쟁이사자처럼 AI CV BOOTCAMP Plus 2기
-[Project 1](https://github.com/BbaekGiwon/AICV_pro1)  
+[Project 1](https://github.com/BbaekGiwon/AICV_pro1)
+[Project 2](https://github.com/BbaekGiwon/AICV_pro2)
+[Project 3](https://github.com/BbaekGiwon/AICV_proj3)
+
 아직 공사중 ...
 
 
