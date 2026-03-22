@@ -22,7 +22,18 @@
 [서강대학교 컴퓨터네트워크(CSE4175)](https://github.com/BbaekGiwon/CSE4175_GWB)  
 [서강대학교 데이터베이스시스템(CSE4110)](https://github.com/BbaekGiwon/CSE4110_GWB)  
 [서강대학교 컴퓨터공학실험2(CSE3016)](https://github.com/BbaekGiwon/CSE3016_GWB)  
-[서강대학교 기초인공지능프로그래밍(COR1010)](https://github.com/BbaekGiwon/COR1010_GWB)  
+[서강대학교 기초인공지능프로그래밍(COR1010)](https://github.com/BbaekGiwon/COR1010_GWB)
+## 🎓 Sogang University Projects
+
+| Course | Description | Tech | Link |
+|--------|------------|------|------|
+| Computer Engineering Design I (CSE3013) | 시스템 프로그래밍 및 프로젝트 | C/C++ | [Repo](https://github.com/BbaekGiwon/CSE3013_GWB) |
+| Computer Systems (CSE3030) | OS 및 시스템 구조 이해 | C | [Repo](https://github.com/BbaekGiwon/CSE3030_GWB) |
+| Algorithm Design (CSE3081) | 알고리즘 구현 및 분석 | C++ | [Repo](https://github.com/BbaekGiwon/CSE3081_GWB) |
+| Computer Network (CSE4175) | 소켓 통신 및 네트워크 | C, Socket | [Repo](https://github.com/BbaekGiwon/CSE4175_GWB) |
+| Database Systems (CSE4110) | DB 설계 및 SQL | MySQL | [Repo](https://github.com/BbaekGiwon/CSE4110_GWB) |
+| Engineering Lab II (CSE3016) | 실습 기반 프로젝트 | C/C++ | [Repo](https://github.com/BbaekGiwon/CSE3016_GWB) |
+| Intro to AI (COR1010) | 기초 ML/AI 구현 | Python | [Repo](https://github.com/BbaekGiwon/COR1010_GWB) |
 
 ### 두산 ROKEY BOOTCAMP 4기
 [DS ROKEY](https://github.com/BbaekGiwon/ROKEY_4)  
