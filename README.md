@@ -25,7 +25,7 @@
 [서강대학교 기초인공지능프로그래밍(COR1010)](https://github.com/BbaekGiwon/COR1010_GWB)  
 
 ### 두산 ROKEY BOOTCAMP 4기
-
+[DS ROKEY](https://github.com/BbaekGiwon/ROKEY_4)  
 
 ### 멋쟁이사자처럼 AI CV BOOTCAMP Plus 2기
 [Project 1](https://github.com/BbaekGiwon/AICV_pro1)  
