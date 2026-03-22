@@ -23,17 +23,6 @@
 [서강대학교 데이터베이스시스템(CSE4110)](https://github.com/BbaekGiwon/CSE4110_GWB)  
 [서강대학교 컴퓨터공학실험2(CSE3016)](https://github.com/BbaekGiwon/CSE3016_GWB)  
 [서강대학교 기초인공지능프로그래밍(COR1010)](https://github.com/BbaekGiwon/COR1010_GWB)
-## 🎓 Sogang University Projects
-
-| Course | Description | Tech | Link |
-|--------|------------|------|------|
-| Computer Engineering Design I (CSE3013) | 시스템 프로그래밍 및 프로젝트 | C/C++ | [Repo](https://github.com/BbaekGiwon/CSE3013_GWB) |
-| Computer Systems (CSE3030) | OS 및 시스템 구조 이해 | C | [Repo](https://github.com/BbaekGiwon/CSE3030_GWB) |
-| Algorithm Design (CSE3081) | 알고리즘 구현 및 분석 | C++ | [Repo](https://github.com/BbaekGiwon/CSE3081_GWB) |
-| Computer Network (CSE4175) | 소켓 통신 및 네트워크 | C, Socket | [Repo](https://github.com/BbaekGiwon/CSE4175_GWB) |
-| Database Systems (CSE4110) | DB 설계 및 SQL | MySQL | [Repo](https://github.com/BbaekGiwon/CSE4110_GWB) |
-| Engineering Lab II (CSE3016) | 실습 기반 프로젝트 | C/C++ | [Repo](https://github.com/BbaekGiwon/CSE3016_GWB) |
-| Intro to AI (COR1010) | 기초 ML/AI 구현 | Python | [Repo](https://github.com/BbaekGiwon/COR1010_GWB) |
 
 ### 두산 ROKEY BOOTCAMP 4기
 [DS ROKEY](https://github.com/BbaekGiwon/ROKEY_4)  
@@ -43,6 +32,35 @@
 [Project 2](https://github.com/BbaekGiwon/AICV_pro2)  
 [Project 3](https://github.com/BbaekGiwon/AICV_proj3) -> 한국산업기술기획평가원장상 수상!  
 
+## 🎓 Sogang Univ Projects
+
+| Course | Description | Tech | Link |
+|--------|------------|------|------|
+| 컴퓨터공학설계및실험 I (CSE3013) | 시스템/프로그래밍 실습 | C/C++, Linux | [Repo](https://github.com/BbaekGiwon/CSE3013_GWB) |
+| 컴퓨터시스템개론 (CSE3030) | OS 및 컴퓨터 구조 | C, OS | [Repo](https://github.com/BbaekGiwon/CSE3030_GWB) |
+| 알고리즘설계와분석 (CSE3081) | 알고리즘 구현 및 분석 | C++, Algorithm | [Repo](https://github.com/BbaekGiwon/CSE3081_GWB) |
+| 컴퓨터네트워크 (CSE4175) | 네트워크 프로그래밍 | Socket, TCP/IP | [Repo](https://github.com/BbaekGiwon/CSE4175_GWB) |
+| 데이터베이스시스템 (CSE4110) | DB 설계 및 SQL | MySQL | [Repo](https://github.com/BbaekGiwon/CSE4110_GWB) |
+| 컴퓨터공학실험 II (CSE3016) | 심화 프로젝트 | C/C++, System | [Repo](https://github.com/BbaekGiwon/CSE3016_GWB) |
+| 기초인공지능프로그래밍 (COR1010) | AI 기초 | Python | [Repo](https://github.com/BbaekGiwon/COR1010_GWB) |
+
+---
+
+## 🤖 Doosan ROKEY Bootcamp
+
+| Project | Description | Tech | Link |
+|--------|------------|------|------|
+| DS ROKEY | 로봇 소프트웨어 및 제어 프로젝트 | ROS2, Robotics | [Repo](https://github.com/BbaekGiwon/ROKEY_4) |
+
+---
+
+## 🧠 AI CV Bootcamp Plus
+
+| Project | Description | Achievement | Tech | Link |
+|--------|------------|------------|------|------|
+| Project 1 | CV 기본 프로젝트 | - | Python, OpenCV | [Repo](https://github.com/BbaekGiwon/AICV_pro1) |
+| Project 2 | 딥러닝 기반 CV | - | PyTorch | [Repo](https://github.com/BbaekGiwon/AICV_pro2) |
+| Project 3 | 고급 CV 프로젝트 | 🏆 한국산업기술기획평가원장상 | PyTorch, DL | [Repo](https://github.com/BbaekGiwon/AICV_proj3) |
 
 ## Baekjoon
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=01gwbaek)
