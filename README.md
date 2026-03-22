@@ -1,5 +1,5 @@
 #### Hi there 👋 I'm a student at Sogang Univ Computer Science/Engineering. Currently interested in Computer vision, Robotics(Dexterous hand manipulation, VLA).
-#### Currently at KIST(Korea Institute of Science and Technology)
+#### Currently at KIST(Korea Institute of Science and Technology) Humanoid department
 
 ## Skills
 ### Platforms & Languages
