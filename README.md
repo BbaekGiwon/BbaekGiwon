@@ -1,5 +1,32 @@
-#### Hi there 👋 I'm a student at Sogang Univ Computer Science/Engineering. Currently interested in Computer vision, Robotics(Dexterous hand manipulation, VLA).
-#### Currently at KIST(Korea Institute of Science and Technology) Humanoid department
+# Hi there 👋 I'm Giwon Baek
+
+🎓 Computer Science & Engineering student at Sogang University  
+🤖 Research Intern at KIST (Korea Institute of Science and Technology), Humanoid Robotics Department  
+
+Currently interested in:
+- Computer Vision
+- Dexterous Hand Manipulation
+- Vision-Language-Action (VLA)
+- Robotics Learning
+
+---
+
+## 📌 Portfolio & CV
+
+- 📄 [Curriculum Vitae (CV)](./cv/Giwon_Baek_CV.pdf)
+- 📝 [Portfolio / Notion](YOUR_NOTION_LINK)
+
+---
+
+## 🔬 Current Research Interests
+
+- Dexterous grasp pose generation
+- Vision-based robotic manipulation
+- Point cloud reconstruction for grasping
+- Tactile sensing for robotic hands
+- Vision-Language-Action models
+
+---
 
 ## Skills
 ### Platforms & Languages
