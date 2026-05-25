@@ -13,7 +13,7 @@ Currently interested in:
 
 ## 📌 Portfolio & CV
 
-- 📄 [Curriculum Vitae (CV)](./cv/Giwon_Baek_CV.pdf)
+- 📄 [Curriculum Vitae (CV)](./cv/GWB_CV_0525.pdf)
 - 📝 [Portfolio / Notion](YOUR_NOTION_LINK)
 
 ---
