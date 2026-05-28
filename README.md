@@ -14,7 +14,7 @@ Currently interested in:
 ## 📌 Portfolio & CV
 
 - 📄 [Curriculum Vitae (CV)](./cv/GWB_CV_0525.pdf)
-- 📝 [Portfolio / Notion](YOUR_NOTION_LINK)
+- 📝 [Portfolio / Notion](https://app.notion.com/p/26edc5cd9dd88063af07e9755caff4ca)
 
 ---
 
