@@ -19,11 +19,11 @@ Currently interested in:
 
 ## 🔬 Current Research Interests
 
-- Dexterous hand manipulation with point cloud
-- Dexterous grasp pose data generation
-- Cross-Embodiment grasp model
-- Vision-Language-Action models
-- Reinforcement Learning
+- Dexterous Manipulation
+- Affordance-Aware Manipulation
+- Cross-Embodiment Learning
+- 3D Vision
+- Vision-Language-Action (VLA) Models
 
 ---
 
