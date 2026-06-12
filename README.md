@@ -4,10 +4,9 @@
 🤖 Research Intern at KIST (Korea Institute of Science and Technology), Humanoid Robotics Department  
 
 Currently interested in:
-- Computer Vision
 - Dexterous Hand Manipulation
 - Vision-Language-Action (VLA)
-- Robotics Learning
+- Computer Vison
 
 ---
 
@@ -20,11 +19,11 @@ Currently interested in:
 
 ## 🔬 Current Research Interests
 
-- Dexterous grasp pose generation
-- Vision-based robotic manipulation
-- Point cloud reconstruction for grasping
-- Tactile sensing for robotic hands
+- Dexterous hand manipulation with point cloud
+- Dexterous grasp pose data generation
+- Cross-Embodiment grasp model
 - Vision-Language-Action models
+- Reinforcement Learning
 
 ---
 
