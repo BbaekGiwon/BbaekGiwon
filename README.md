@@ -12,7 +12,7 @@ Currently interested in:
 
 ## 📌 Portfolio & CV
 
-- 📄 [Curriculum Vitae (CV)](./cv/GWB_CV_0525.pdf)
+- 📄 [Curriculum Vitae (CV)](./cv/GWB_CV_0821.pdf)
 - 📝 [Portfolio](https://bbaekgiwon.github.io/BaekGiwon.github.io/)
 
 ---
