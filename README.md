@@ -53,6 +53,7 @@ Currently interested in:
 | 데이터베이스시스템 (CSE4110) | [Repo](https://github.com/BbaekGiwon/CSE4110_GWB) |
 | 컴퓨터공학실험 II (CSE3016) | [Repo](https://github.com/BbaekGiwon/CSE3016_GWB) |
 | 기초인공지능프로그래밍 (COR1010) | [Repo](https://github.com/BbaekGiwon/COR1010_GWB) |
+| 컴퓨터비전 (CSEG418) | [Repo](https://github.com/BbaekGiwon/CSEG418_GWB) |
 
 ---
 
