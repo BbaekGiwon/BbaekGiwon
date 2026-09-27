@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Giwon Baek
 
 🎓 Computer Science & Engineering student at Sogang University  
-🤖 Research Intern at KIST (Korea Institute of Science and Technology), Humanoid Robotics Department  
+🤖 (Before) Research Intern at KIST (Korea Institute of Science and Technology), Humanoid Robotics Department  
+🤖 (Now) Research Intern at RI Lab, Korea University  
 
 Currently interested in:
 - Dexterous Hand Manipulation
