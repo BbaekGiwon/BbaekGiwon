@@ -2,7 +2,8 @@
 
 🎓 Computer Science & Engineering student at Sogang University  
 🤖 (Before) Research Intern at KIST (Korea Institute of Science and Technology), Humanoid Robotics Department  
-🤖 (Now) Research Intern at RI Lab, Korea University  
+🤖 (Before) Research Intern at RI Lab, Korea University  
+🤖 (Now) Engineer Intern at RLWRLD, Robotics Deployment Department
 
 Currently interested in:
 - Dexterous Hand Manipulation
